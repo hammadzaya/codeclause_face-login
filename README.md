@@ -1,1 +1,2 @@
-# codeclause_face-login
+# Face-Recognition-Project
+Face Recognition Project!
